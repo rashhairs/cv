@@ -8,9 +8,6 @@ gems: [jekyll-paginate]
 port: 4000
 safe: true
 
-# edit this section with your information
-# biomadeira.github.io - all contents run on /vitae/
-# for a normal use at the base of the server change it to "/"
 baseurl: ""
-title: Sriharsha Sheshanarayana's Resume
+title: Sriharsha's Resume
 
