@@ -2,10 +2,7 @@
 layout: layout
 ---
 
+bla bla bla
 
-<div id="pdf">
-  <object width= "100%" height="800px" type="application/pdf" data="/assets/Sriharsha_CV.pdf" id="pdf_content">
-    <p>Sorry this pdf cannot be displayed at the moment :(</p>
-  </object>
-</div>
+<iframe src="https://docs.google.com/file/d/0B8aGkJVsdqiJamVpUnJ1TDlFbFU/preview" style="width: 100%; height:700px;" frameborder="0" type="application/pdf"></iframe>
 
